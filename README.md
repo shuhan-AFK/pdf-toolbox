@@ -54,6 +54,10 @@ Python 3.11 · PyQt5 · PyMuPDF · Pillow · python-docx · pywin32（Word COM �
 
 ![界面预览](whiteboard_preview.png)
 
+## 更新日志
+
+版本变更记录见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 版权
 
-© 2026 shuhan-AFK。保留所有权利。
+© 2026 shuhan-AFK。本项目代码采用 [MIT 许可证](LICENSE)，可自由使用、修改和分发（需保留版权声明）。
